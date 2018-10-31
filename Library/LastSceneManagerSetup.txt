@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/f\u653E\u5927\u955C/\u653E\u5927\u955C.unity"
+- path: "Assets/Kinect\u624B\u52BF/12.unity"
   isLoaded: 1
   isActive: 1

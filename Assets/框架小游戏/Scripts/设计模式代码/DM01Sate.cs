@@ -4,7 +4,6 @@ using UnityEngine;
 
 
 
-#region 不好的
 public class DM01Sate : MonoBehaviour
 {
 	void Start()
@@ -78,4 +77,3 @@ public class ConcreteStateB : IState
 		}
 	}
 }
-#endregion

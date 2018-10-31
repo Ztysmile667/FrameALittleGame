@@ -86,13 +86,17 @@ public class DM02Bridge : MonoBehaviour
 {
 	private void Start()
 	{
-		//只需要改这一个就可以了
-		IRerderEngine renderEngine = new OpenGL();
+		////只需要改这一个就可以了
+		//IRerderEngine renderEngine = new OpenGL();
 
-		Sphere sphere = new Sphere(renderEngine);
-		sphere.Draw();
-		Cube cube = new Cube(renderEngine);
-		cube.Draw();
+		//Sphere sphere = new Sphere(renderEngine);
+		//sphere.Draw();
+		//Cube cube = new Cube(renderEngine);
+		//cube.Draw();
+
+		ICharacter character = new SoldierCaptain();
+		character.weapon = new WeaponGun();
+		character.Attack(Vector3.zero);
 	}
 
 }

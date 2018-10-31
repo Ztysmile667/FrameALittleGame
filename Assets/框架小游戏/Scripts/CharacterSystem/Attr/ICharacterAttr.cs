@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// 人物属性的一个类
+/// </summary>
 public class ICharacterAttr
 {
 	protected string m_Name;//人物的名字
