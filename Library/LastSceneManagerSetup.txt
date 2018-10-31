@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/Kinect\u624B\u52BF/12.unity"
+- path: "Assets/Mesh\u753B\u56FE\u5F62/\u4E09\u89D2\u5F62/\u4E09\u89D2\u5F62.unity"
   isLoaded: 1
   isActive: 1

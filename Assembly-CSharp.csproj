@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{45FE130B-AD57-0230-5966-B695BC92D327}</ProjectGuid>
+    <ProjectGuid>{A9B0C424-63AE-C07E-8D39-652886678465}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -341,6 +341,9 @@
     <Compile Include="Assets\Kinect手势\Kinect_SDK\Project\Scripts\KinectWWControll.cs" />
     <Compile Include="Assets\Kinect手势\Scripts\DEMO_Main.cs" />
     <Compile Include="Assets\Kinect手势\Scripts\GestureSourcesManager.cs" />
+    <Compile Include="Assets\Mesh画图形\三角形\sanjiao.cs" />
+    <Compile Include="Assets\Mesh画图形\圆形\YuanXing.cs" />
+    <Compile Include="Assets\Mesh画图形\正方形\zhengfangxing.cs" />
     <Compile Include="Assets\SerializeField\SerializeField_show.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_TestThrow.cs" />
@@ -586,10 +589,10 @@
     <None Include="Assets\Kinect手势\Kinect_SDK\KinectSDk\Resources\BlurShader4.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>F:/UnityProjects/DEMO/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/MT_019/Documents/FrameALittleGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>F:/UnityProjects/DEMO/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/MT_019/Documents/FrameALittleGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity2018.1.7/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -790,13 +793,13 @@
       <HintPath>D:/Unity2018.1.7/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="LZ4Sharp">
-      <HintPath>F:/UnityProjects/DEMO/Assets/Kinect手势/Kinect_SDK/KinectSDk/KinectScripts/LZ4Sharp/LZ4Sharp.dll</HintPath>
+      <HintPath>C:/Users/MT_019/Documents/FrameALittleGame/Assets/Kinect手势/Kinect_SDK/KinectSDk/KinectScripts/LZ4Sharp/LZ4Sharp.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>F:/UnityProjects/DEMO/Assets/Kinect手势/Kinect_SDK/KinectSDk/KinectScripts/SharpZipLib/ICSharpCode.SharpZipLib.dll</HintPath>
+      <HintPath>C:/Users/MT_019/Documents/FrameALittleGame/Assets/Kinect手势/Kinect_SDK/KinectSDk/KinectScripts/SharpZipLib/ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>F:/UnityProjects/DEMO/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/MT_019/Documents/FrameALittleGame/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/MT_019/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
