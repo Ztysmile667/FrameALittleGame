@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/Mesh\u753B\u56FE\u5F62/\u4E09\u89D2\u5F62/\u4E09\u89D2\u5F62.unity"
+- path: "Assets/\u6846\u67B6\u5C0F\u6E38\u620F/Scene/2.0.unity"
   isLoaded: 1
   isActive: 1

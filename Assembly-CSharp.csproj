@@ -343,6 +343,7 @@
     <Compile Include="Assets\Kinect手势\Scripts\GestureSourcesManager.cs" />
     <Compile Include="Assets\Mesh画图形\三角形\sanjiao.cs" />
     <Compile Include="Assets\Mesh画图形\圆形\YuanXing.cs" />
+    <Compile Include="Assets\Mesh画图形\正方体\zhengfangti.cs" />
     <Compile Include="Assets\Mesh画图形\正方形\zhengfangxing.cs" />
     <Compile Include="Assets\SerializeField\SerializeField_show.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
@@ -516,6 +517,9 @@
     <Compile Include="Assets\框架小游戏\Scripts\CharacterSystem\Attr\EnemyAttr.cs" />
     <Compile Include="Assets\框架小游戏\Scripts\CharacterSystem\Attr\ICharacterAttr.cs" />
     <Compile Include="Assets\框架小游戏\Scripts\CharacterSystem\Attr\SoldierAttr.cs" />
+    <Compile Include="Assets\框架小游戏\Scripts\CharacterSystem\AttrStrategy\EnemyAttrStrategy.cs" />
+    <Compile Include="Assets\框架小游戏\Scripts\CharacterSystem\AttrStrategy\IAttrStrategy.cs" />
+    <Compile Include="Assets\框架小游戏\Scripts\CharacterSystem\AttrStrategy\SoldierAttrStrategy.cs" />
     <Compile Include="Assets\框架小游戏\Scripts\CharacterSystem\CharacterSystem.cs" />
     <Compile Include="Assets\框架小游戏\Scripts\CharacterSystem\Enemy\EnemyElf.cs" />
     <Compile Include="Assets\框架小游戏\Scripts\CharacterSystem\Enemy\EnemyOgre.cs" />
@@ -546,6 +550,7 @@
     <Compile Include="Assets\框架小游戏\Scripts\Weapon\WeaponRocket.cs" />
     <Compile Include="Assets\框架小游戏\Scripts\设计模式代码\DM01Sate.cs" />
     <Compile Include="Assets\框架小游戏\Scripts\设计模式代码\DM02Bridge.cs" />
+    <Compile Include="Assets\框架小游戏\Scripts\设计模式代码\DM03Strategy.cs" />
     <Compile Include="Assets\框架小游戏\状态模式\_ConText.cs" />
     <Compile Include="Assets\框架小游戏\状态模式\_GameStart.cs" />
     <Compile Include="Assets\框架小游戏\状态模式\_ICharacterState.cs" />

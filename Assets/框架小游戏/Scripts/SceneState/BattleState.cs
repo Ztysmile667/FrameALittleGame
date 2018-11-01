@@ -12,7 +12,7 @@ public class BattleState : ISceneState
 	{
 
 	}
-	//战斗场景中会有各种系统，什么兵营啊，关卡啊，角色管理啊，行动力啊啥啥啥都啥啊
+	//战斗场景中会有各种系统，什么兵营啊，关卡啊，角色管理啊，行动力啊啥啥啥都啥啊,用外观模式
 
 	public override void StateStart()
 

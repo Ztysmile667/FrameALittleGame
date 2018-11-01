@@ -82,6 +82,9 @@ using UnityEngine;
 //======================================================================
 //下面的重构完成的
 
+	/// <summary>
+	/// 桥接模式
+	/// </summary>
 public class DM02Bridge : MonoBehaviour
 {
 	private void Start()

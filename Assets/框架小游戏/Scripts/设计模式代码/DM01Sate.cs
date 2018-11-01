@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-
+/// <summary>
+/// 状态模式
+/// </summary>
 public class DM01Sate : MonoBehaviour
 {
 	void Start()
